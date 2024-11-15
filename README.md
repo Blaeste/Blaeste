@@ -59,18 +59,10 @@ Je suis actuellement etudiant a 42 Mulhouse. Let's make technology shine! 🚀
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,visualstudio,webstorm,sublime"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana,bash"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,alpine"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian"/></td>
     </tr>
 </table>
-
-------
-[RResabala2015](https://github.com/RResabala2015)
-26/07/2024
