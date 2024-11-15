@@ -2,14 +2,6 @@
 
 ### Hello 🌎, I'm Blaeste
 
-Je suis actuellement etudiant a 42 Mulhouse. Let's make technology shine! 🚀
-
-
-  - 🔭 I’m currently working on upgrading java applications from jdk 8 to 21.
-  - 🌱 I’m currently learning; Junit, Jakarta, Spring Security, Spring Cloud.
-  - 💬 Ask me about **Html, Css, Sass, Bootstrap, Javascript, Typescript, React,  PHP,  Lumen, Laravel,  C#, .NET, Java, Spring Boot, Scrum, Google Cloud Platform, GKE, GCE, CI/CD, TDD, DDD, Docker, Kubernetes**
-  - ⚡ Fun fact: I look like a hobbit.
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Blaeste&label=Profile%20views&color=0e75b6&style=flat" alt="Blaeste" /> </p>
 
 
