@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://github.com/Blaeste/gifforgeek/blob/main/tumblr_2693d7e6ea76f6b530336ee836cd3a2f_a4ba79ee_540-ezgif.com-webp-to-gif-converter.gif" alt="animated" />
 </p>
-------
+
 <h3 align="left">Activity:</h3>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Blaeste&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
