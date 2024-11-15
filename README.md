@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Blaeste&label=Profile%20views&color=0e75b6&style=flat" alt="Blaeste" /> </p>
 
-![Alt Text](https://64.media.tumblr.com/2693d7e6ea76f6b530336ee836cd3a2f/fd5ae33ffdc3f508-3a/s540x810/a4ba79ee08648572871dc653107a8f3cc8a440fd.gifv))
+![Alt Text](https://64.media.tumblr.com/2693d7e6ea76f6b530336ee836cd3a2f/fd5ae33ffdc3f508-3a/s540x810/a4ba79ee08648572871dc653107a8f3cc8a440fd.gifv)
 ------
 <h3 align="left">Activity:</h3>
 
