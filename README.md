@@ -1,8 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-### Hello 🌎, I'm Blaeste
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Blaeste&label=Profile%20views&color=0e75b6&style=flat" alt="Blaeste" /> </p>
+### Hello 🌎, I'm Blaeste <p align="left"> <img src="https://komarev.com/ghpvc/?username=Blaeste&label=Profile%20views&color=0e75b6&style=flat" alt="Blaeste" /> </p>
 
 
 ------
