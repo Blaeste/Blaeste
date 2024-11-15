@@ -18,7 +18,7 @@ Je suis actuellement etudiant a 42 Mulhouse. Let's make technology shine! 🚀
 </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RResabala2015&label=Profile%20views&color=0e75b6&style=flat" alt="RResabala2015" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Blaeste&label=Profile%20views&color=0e75b6&style=flat" alt="Blaeste" /> </p>
 
 
 ------
