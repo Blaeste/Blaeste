@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Blaeste&label=Profile%20views&color=0e75b6&style=flat" alt="Blaeste" /> </p>
 <p align="center">
-  <img src="https://github.com/Blaeste/gifforgeek/blob/main/tumblr_2693d7e6ea76f6b530336ee836cd3a2f_a4ba79ee_540-ezgif.com-webp-to-gif-converter.gif" alt="animated" width=400px/>
+  <img src="https://github.com/Blaeste/gifforgeek/blob/main/tumblr_2693d7e6ea76f6b530336ee836cd3a2f_a4ba79ee_540-ezgif.com-webp-to-gif-converter.gif" alt="animated"/>
 </p>
 
 <h3 align="left">Activity:</h3>
